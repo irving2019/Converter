@@ -13,7 +13,7 @@ namespace Lesson
     {
         public static void Main(string[] args)
         {
-            //App.ThreeCounts();
+            App.ThreeCounts();
             App.Convers();
         }
 
